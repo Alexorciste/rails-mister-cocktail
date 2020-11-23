@@ -3,6 +3,33 @@
     padding-right: 15px;
     padding-left: 15px;
     margin: 0 auto;
+    
+   
+}
+
+.cocktail-show {
+  height: 400px;
+  border-radius: 5px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+    h2, a {
+        color:white;
+        text-decoration: none;
+    }
+
+    p {
+      color:white;
+      line-height: 6px;
+    }
+
+    .btn {
+      position:absolute;
+      bottom: 5px;
+      left: 5px;
+    }
+
    
 }
 
